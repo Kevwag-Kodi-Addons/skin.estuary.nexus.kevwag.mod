@@ -1,0 +1,16 @@
+[B]1.0.2[/B] 21/04/2022
+• Added Font: Accidental Presidency
+• Added Font: Arista2.0
+• Fixed Font Menu Order
+• Added Poster View for All Video Types
+
+[B]1.0.1[/B] 20/04/2022
+• Fixed Background for CoreELEC Settings Window
+• Fixed Missing CoreELEC Settings Button in Kodi Settings Window
+• Added "Reboot to MMC / EMMC" Option in Shutdown Menu 
+
+[B]1.0.0[/B] 19/04/2022
+• Fixed missing bracket error.
+
+[B]0.0.1[/B] 19/04/2022
+• Initial Fork / Commit
